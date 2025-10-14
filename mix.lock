@@ -1,0 +1,4 @@
+%{
+  "jason": {:hex, :jason, "1.4.2", "6c494078a4cb0f2c02f6605cc8570496f7b32d32677b6a83ffd22a0b6c07b3db", [:mix], [{:decimal, "~> 1.0 or ~> 2.0", [hex: :decimal, repo: "hexpm", optional: true]}], "hexpm", "7be7536b97a491474e573b7d6ff1472722ccc693075a8e8d4dad1d239528ffdd"},
+  "does_not_exist": {:git, "https://github.com/woylie/does_not_exist.git", "22d30b5a39840b6cd3088a27c7f20d3906b9c584", [branch: "main"]},
+}
