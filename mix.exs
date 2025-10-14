@@ -22,7 +22,7 @@ defmodule RenovateDeleteLockfile.MixProject do
   defp deps do
     [
       {:jason, "~> 1.4.2"},
-      {:plug, "1.18.0"},
+      {:plug, "== 1.18.1"},
       {:does_not_exist, github: "woylie/does_not_exist", branch: "main"}
     ]
   end
