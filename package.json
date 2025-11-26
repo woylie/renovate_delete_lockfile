@@ -1,6 +1,6 @@
 {
   "name": "renovate_delete_lockfile",
-  "packageManager": "yarn@4.10.3",
+  "packageManager": "yarn@4.12.0",
   "devDependencies": {
     "postcss": "^8.5.6"
   }
